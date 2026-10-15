@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+*.csv
+.DS_Store
+.idea/
+.vscode/
+
+# Local user configuration (never publish personal server paths)
+config.json
+config.local.json
